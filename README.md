@@ -1,4 +1,4 @@
-# 🚀 Kenya Energy Transition Framework: Evaluating Grid Expansion vs. Resource Efficiency
+# 🚀 Decoupling Kenya's Economic Growth from Energy Intensity: A Framework Evaluating Grid Expansion vs. Resource Efficiency
 
 ## 🔗 Project Quick Links
 * **Interactive Tableau Dashboard:** [👉 Click Here to View the Live Dashboard (https://public.tableau.com/app/profile/marion.kariuki6726/viz/KenyaEnergyTransitionPortfolio-Phase1/Dashboard1))
